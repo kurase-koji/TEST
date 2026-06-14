@@ -292,7 +292,7 @@ namespace DiceGame {
 			System::Diagnostics::Debug::WriteLine("‹ô”‚ª‘I‘ğ‚³‚ê‚Ü‚µ‚½");
 		}
 		else {
-			MessageBox::Show("Šï”‚©‹ô”‚©‚ğ‘I‚ñ‚Å‚­‚¾‚³‚¢","‚¨Šè‚¢");
+			MessageBox::Show("Šï”‚©‹ô”‚©‚ğ‘I‚ñ‚Å‚­‚¾‚³‚¢","‚¨Šè‚¢1");
 			return;
 		}
 		Random^ randomDice;
