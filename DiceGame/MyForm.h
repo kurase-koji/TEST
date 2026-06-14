@@ -289,7 +289,7 @@ namespace DiceGame {
 		}
 		else if (this->radioButtonGusu->Checked == true)
 		{
-			System::Diagnostics::Debug::WriteLine("‹ô”‚ª‘I‘ğ‚³‚ê‚Ü‚µ‚½1");
+			System::Diagnostics::Debug::WriteLine("‹ô”‚ª‘I‘ğ‚³‚ê‚Ü‚µ‚½");
 		}
 		else {
 			MessageBox::Show("Šï”‚©‹ô”‚©‚ğ‘I‚ñ‚Å‚­‚¾‚³‚¢","‚¨Šè‚¢");
