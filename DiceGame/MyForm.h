@@ -1,4 +1,5 @@
 #pragma once
+#include <atlstr.h>
 
 namespace DiceGame {
 
@@ -283,6 +284,9 @@ namespace DiceGame {
 		}
 #pragma endregion
 	private: System::Void button1_Click(System::Object^  sender, System::EventArgs^  e) {
+
+		CString xx="a";
+
 		if (this->radioButtonKisu->Checked == true)
 		{
 			System::Diagnostics::Debug::WriteLine("Šï”‚ª‘I‘ğ‚³‚ê‚Ü‚µ‚½");
