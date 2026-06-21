@@ -285,7 +285,7 @@ namespace DiceGame {
 #pragma endregion
 	private: System::Void button1_Click(System::Object^  sender, System::EventArgs^  e) {
 
-		CString xx="dc";
+		CString xx="dc2";
 
 		if (this->radioButtonKisu->Checked == true)
 		{
