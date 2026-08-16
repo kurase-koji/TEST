@@ -409,5 +409,6 @@ namespace DiceGame {
 		}
 
 	}
+//kurasekouji
 };
 }
