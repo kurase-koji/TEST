@@ -407,7 +407,7 @@ namespace DiceGame {
 		{
 			e->Cancel = true;
 		}
-/*‘q£K“ñ11*/
+/*‘q£K“ñ12*/
 	}
 };
 }
