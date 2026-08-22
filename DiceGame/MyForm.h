@@ -408,6 +408,7 @@ namespace DiceGame {
 			e->Cancel = true;
 		}
 /*‘q£K“ñ14*/
+		16
 	}
 };
 }
